@@ -739,7 +739,7 @@ def is_correct_result(expected, got):
     return True
 
 
-# =============================================================
+# ==============================================================
 
 def http_request(method, resource, data, headers):
     '''Send a request to Jobe with given HTTP method to given resource on
